@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.10e47e1f.css",
-    "main.js": "/static/js/main.74c5d8ea.js",
+    "main.js": "/static/js/main.181d4e8f.js",
     "static/media/Geometria-Regular.woff": "/static/media/Geometria-Regular.8a7c9bf6c4fb69e13595.woff",
     "static/media/Geometria-Medium.woff": "/static/media/Geometria-Medium.1b16651e7f4cc351074f.woff",
     "static/media/Geometria-Regular.woff2": "/static/media/Geometria-Regular.914be1665d1d946c626c.woff2",
@@ -9,10 +9,10 @@
     "index.html": "/index.html",
     "static/media/arrow-down.svg": "/static/media/arrow-down.269264c8e7241f30916c.svg",
     "main.10e47e1f.css.map": "/static/css/main.10e47e1f.css.map",
-    "main.74c5d8ea.js.map": "/static/js/main.74c5d8ea.js.map"
+    "main.181d4e8f.js.map": "/static/js/main.181d4e8f.js.map"
   },
   "entrypoints": [
     "static/css/main.10e47e1f.css",
-    "static/js/main.74c5d8ea.js"
+    "static/js/main.181d4e8f.js"
   ]
 }
